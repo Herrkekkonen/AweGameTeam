@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 sceneSetups:
-- path: Assets/Scenes/test.unity
+- path: Assets/Scenes/NewGame.unity
   isLoaded: 1
   isActive: 1
-=======
-sceneSetups: []
->>>>>>> master
